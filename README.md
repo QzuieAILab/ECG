@@ -6,4 +6,4 @@ jupyter notebook
 
 
 2.运行Test.ipynb：
-在Jupyter Notebook仪表板中，找到并点击Test.ipynb文件。这将加载checkpoint文件运行模型测试
+在Jupyter Notebook仪表板中，找到并点击Test.ipynb文件，使用加载的模型和测试数据集进行预测。
